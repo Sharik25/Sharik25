@@ -103,10 +103,3 @@ Raw post → BERT classifier  → editorial stance + confidence
 Python/Flask application connecting Notion and Telegram Bot APIs via webhooks for in-messenger task management.
 
 `Python` `Flask` `Notion API` `Telegram Bot API` `Webhooks`
-
----
-
-## 📄 Publications
-
-- **RANLP 2023** — *Binary Text Classification of Russian-Language Telegram Posts* · [ACL Anthology](https://aclanthology.org/2023.ranlp-1.123)
-- **World Scientific 2025** — *Structured Information Extraction and Geospatial Visualization from Social Media Posts* · [World Scientific](https://books.google.com/books?id=VYx5EQAAQBAJ&pg=PA185)
