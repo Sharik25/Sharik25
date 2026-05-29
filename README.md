@@ -4,7 +4,7 @@ Data Analytics Engineer with production experience across e-commerce, video stre
 I build end-to-end data pipelines — from API ingestion and SQL analytics to NLP models and cloud automation. 
 Two of my projects have been published in peer-reviewed venues.
 
-📧 revyakiner@gmail.com &nbsp;·&nbsp; 🏠 Working from home
+📧 revyakiner@gmail.com &nbsp;·&nbsp;
 
 ---
 
@@ -13,7 +13,7 @@ Two of my projects have been published in peer-reviewed venues.
 ### [SQL_Analytics_Portfolio](https://github.com/Sharik25/SQL_Analytics_Portfolio)
 **Production SQL across three companies and three SQL engines**
 
-Analytics queries from real roles — Amazon FBA e-commerce, video streaming, and retail banking — demonstrating breadth across domains, engines, and complexity levels.
+Analytics queries from real roles — Amazon FBA e-commerce, video streaming, and banking — demonstrating breadth across domains, engines, and complexity levels.
 
 | Engine | Dialect | Company | Domain |
 |---|---|---|---|
