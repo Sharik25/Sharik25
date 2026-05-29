@@ -8,6 +8,18 @@ Two of my projects have been published in peer-reviewed venues.
 
 ---
 
+## 🧰 Tech Stack
+
+| Area | Tools |
+|---|---|
+| **SQL** | AWS Athena (Presto/Trino), ClickHouse, Oracle SQL + OFSAA |
+| **Cloud** | AWS Lambda, S3, Athena, Secrets Manager, CloudWatch, Amplify |
+| **Python / Data** | pandas, AWS Wrangler, Parquet, OAuth 2.0, Docker |
+| **APIs** | Amazon Ads API, Amazon SP-API, Google Sheets API, Telegram API, Notion API |
+| **NLP / ML** | Transformers, BERT, scikit-learn, seqeval, pymorphy2, Hugging Face |
+
+---
+
 ## 📊 Data Engineering & Analytics
 
 ### [SQL_Analytics_Portfolio](https://github.com/Sharik25/SQL_Analytics_Portfolio)
@@ -91,18 +103,6 @@ Raw post → BERT classifier  → editorial stance + confidence
 Python/Flask application connecting Notion and Telegram Bot APIs via webhooks for in-messenger task management.
 
 `Python` `Flask` `Notion API` `Telegram Bot API` `Webhooks`
-
----
-
-## 🧰 Tech Stack
-
-| Area | Tools |
-|---|---|
-| **SQL** | AWS Athena (Presto/Trino), ClickHouse, Oracle SQL + OFSAA |
-| **Cloud** | AWS Lambda, S3, Athena, Secrets Manager, CloudWatch, Amplify |
-| **Python / Data** | pandas, AWS Wrangler, Parquet, OAuth 2.0, Docker |
-| **APIs** | Amazon Ads API, Amazon SP-API, Google Sheets API, Telegram API, Notion API |
-| **NLP / ML** | Transformers, BERT, scikit-learn, seqeval, pymorphy2, Hugging Face |
 
 ---
 
