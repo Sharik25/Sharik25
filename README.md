@@ -5,6 +5,7 @@ I build end-to-end data pipelines — from API ingestion and SQL analytics to NL
 Two of my projects have been published in peer-reviewed venues.
 
 📧 revyakiner@gmail.com &nbsp;·&nbsp;
+https://www.linkedin.com/in/egor-reviakin/
 
 ---
 
