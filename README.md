@@ -4,9 +4,6 @@ Data Analytics Engineer with production experience across e-commerce, video stre
 I build end-to-end data pipelines — from API ingestion and SQL analytics to NLP models and cloud automation. 
 Two of my projects have been published in peer-reviewed venues.
 
-📧 revyakiner@gmail.com &nbsp;·&nbsp;
-https://www.linkedin.com/in/egor-reviakin/
-
 ---
 
 ## 🧰 Tech Stack
